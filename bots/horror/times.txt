@@ -1,0 +1,2 @@
+small scary: 8786.470012664795
+big scary: 22 * 600
